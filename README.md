@@ -1,0 +1,1 @@
+npx tsc src/script.ts -w  
